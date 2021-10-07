@@ -32,7 +32,7 @@ freechains-host start C:\Freechains\myhost
 freechains crypto shared "My very strong passphrase" 
 ```
 
-- Creating a channel:
+- Creating a channel
 (On Windows not allow use single quote (') for channel name, use double quote (") if needed) 
 ```
 freechains chains join "$chat" 96700A...
