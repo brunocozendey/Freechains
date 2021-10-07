@@ -1,4 +1,4 @@
-# Free chains Windows Installer 
+# Freechains Windows Installer 
 
 [Original Repo](https://github.com/fsantanna-no/freechains) 
 
