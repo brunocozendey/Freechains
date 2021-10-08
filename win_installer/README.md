@@ -1,6 +1,6 @@
 # Freechains Windows Installer 
 
-[Original Repo](https://github.com/fsantanna-no/freechains) 
+[Original Repo](https://github.com/Freechains/README) 
 
 ## Installation 
 
@@ -9,11 +9,12 @@ Tried on Windows 10 Home
 1. Java installation: [Link](https://www.java.com/en/download/help/windows_manual_download.html)
 2. Add Java to class path: [Link](https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)
 3. Create a folder to add the freechains files *ex: C:\Freechains*
-4. Download the freechains windows files: [Link](https://github.com/brunocozendey/Freechains/tree/master/win_installer)
-5. Move files to the folder created at step 3. 
-6. Copy and Paste files **freechains.bat** and **freechains-host.bat** to *C:\Windows\System32*
-7. Download the dll file from libsodium: [Link](https://download.libsodium.org/libsodium/releases/)
-8. Extract the dll file to *C:\Windows\System32*
+4. Download the freechains java files(.jar): [Link](https://github.com/Freechains/README/releases/download/v0.8.6/freechains-v0.8.6.zip)
+5. Download the freechains windows files(.bat/dll): [Link](https://github.com/brunocozendey/Freechains/tree/master/win_installer)
+6. Move the .jar files (step 4) to the folder created at step 3. 
+7. Copy and Paste files **freechains.bat** and **freechains-host.bat** to *C:\Windows\System32*
+8. Download the dll file from libsodium: [Link](https://download.libsodium.org/libsodium/releases/)
+9. Extract the dll file to *C:\Windows\System32*
 
 ## Using
 
