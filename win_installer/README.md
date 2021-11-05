@@ -14,7 +14,7 @@ Tried on Windows 10 Home
 6. Move the .jar files (step 4) to the folder created at step 3. 
 7. Copy and Paste files **freechains.bat** and **freechains-host.bat** to *C:\Windows\System32*
 8. Download the dll file from libsodium: [Link](https://download.libsodium.org/libsodium/releases/)
-9. Extract the dll file to *C:\Windows\System32*
+9. Extract the dll file to Freechains file (step 3) * use x32 Version * 
 
 ## Using
 
